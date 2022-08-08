@@ -1,0 +1,14 @@
+bf
+gf
+knuckles
+scourge-forced
+scourge-angry
+shadow-high
+shadow-mad
+shadow
+sonic-forced
+sonic-mad
+sonic-nothing
+sonic-proving
+sonic
+tails
